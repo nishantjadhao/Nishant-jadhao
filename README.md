@@ -1,2 +1,2 @@
 # Nishant-jadhao
-(As student)
+This repository contains demo Git practice and projects.
